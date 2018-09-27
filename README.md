@@ -1,11 +1,7 @@
-#Armenians love japanese food
+
 # llcpython
-# committing to the main branch as a test
-#this is a comment
-#This a second comment
 
-This is a commit from Sid to test if git has been setup correctly on my laptop.
-
-Making a change in a branch to test merge functionality - Conrad
-
-Aris is making a change, watch out everyone - Aris
+Using Python, build an application to help job seekers improve their resume for ATS parsing
+1. Parsing resume and job description
+2. Creating a word-cloud, and comparing the two for keywords
+3. Presenting action items on how job seeker can improve their resume to increase chances of surfacing it in an ATS
