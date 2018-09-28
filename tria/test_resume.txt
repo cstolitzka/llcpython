@@ -1,0 +1,73 @@
+An accomplished Product Management team player with extensive and diversified experience in defining and delivering successful consumer and enterprise software products to meet market needs. In-depth knowledge of product-life-cycle management, business development and leading cross-functional teams. Excellent domain knowledge in Mobile and Web applications, Navigation and Location Based services, Software as a Service (SaaS), and Enterprise Security products. A self-starter with proven ability to manage multiple products and projects.
+
+Work Experience
+
+Product Manager Good Technology April 2011 to November 2013
+
+• Responsible for roadmap strategy and delivery of Good's flagship product, Good for Enterprise, which provides security and management to application data and devices. It has allowed enterprises and government sectors to manage and deploy a secure collaboration solution to millions of mobile devices.
+• Drive requirements definition, development and platform support of user-valued features on iOS, Android and Windows devices.
+• Delivered successful products requiring close internal and external partnership collaborations, including with mobile OEMs, ISV, and online services.
+• Led the development teams based in US, Sunnyvale and Poland as the Product Owner in an agile environment to consistently deliver high quality products for the Android and Windows platforms.
+• Increased the number of Android user base by a factor of 5X
+• Conceived and led the creation of Good for Enterprise on Windows Phone 7.5, Windows Phone 8 and Windows 8 tablets
+
+Product Manager FileMaker, Inc February 2010 to October 2010
+• Successfully launched FileMaker Go 1.0 for iPhone and iPad and becoming the #1 Paid Business app and #1 Business Grossing app in the first week. It received 4 out of 5 mice from MacWorld.
+• Coordinate and facilitate a cross functional team through two cycles of product launches.
+• Provide features recommendation and product roadmap to senior executives base on customer feedback, competitive analysis, and market research.
+• Conduct usability study on existing products to identify areas of improvement.
+• Manage a group of external beta testers to help find bugs and issues.
+• Collaborate with Product Marketing to create product messaging and web content to promote FileMaker Go.
+• Conduct product usage survey and provide summary and recommendations related to the next version of products to senior executives.
+• Participate in web seminars with existing and new customers to present and answer questions on FileMaker Go.
+• Develop a product demo that was delivered to over one thousand attendees at FileMaker Developer's Conference.
+
+Product Manager TeleNav Inc September 2007 to February 2010
+• In charge of creating MRD and UI flow documents based on internal and external requirements to guide engineering's development of TeleNav and white label branded mobile products.
+• Designed and launched AT&T Navigator, a white labeled turn-by-turn navigation product for AT&T, on BlackBerry, Windows Mobile, Symbian and J2ME devices.
+• Designed and launched TeleNav GPS Navigator on T-Mobile G1, the first turn by turn navigation application on the Android platform.
+• Designed and launched YellowPages Mobile application, a business search and mapping application, on J2ME devices.
+• Develop product roadmap for TeleNav GPS Navigator and white label solution products.
+• Providing product management support to Alltel, Rogers, Bell Canada and Sprint carriers.
+• Conduct usability testing on new or existing products to find areas of improvement.
+• Host Customer Advisory Board to better understand issues reported by customers of TeleNav.
+
+Product Manager Palm Inc July 2005 to September 2007
+• Launched a carrier grade OTA backup solution for Treo smartphones.
+• Lead the product development lifecycle from initial concept to market launch.
+• Worked with engineering to develop the backup solution on a SyncML platform.
+• Responsible for the marketing and functional specifications for an Enterprise service strategy, involving remote file access, kill pill and device management on Treo.
+• Identify unmet smartphone customer needs through market research and analysis.
+• Define and document product/service requirements and functional definitions based on identified target customer needs.
+• Work with Engineering, Marketing, Sales and Support to prioritize product features.
+• Identify and assist in selecting partners to deliver competitive and interoperable solutions.
+• Establish the business case, financial model and pricing to justify investment in a service offering.
+• Work with business development to outline and negotiate desired partnership business terms.
+• Establish metrics to measure usage and success factors of deployed services.
+• Proactively seek market feedback on deployed services and develop a detailed feature roadmap.
+• Ensure product plans include end-user needs, carrier requirements, competition and industry standards.
+
+Technical Support Engineer Akamai Technology May 2004 to July 2005
+• Troubleshooting and resolving technical issues for customer during pre and post-sale cycles.
+• Perform system analysis using Perl, UNIX commands, and network tracing tools to identify and resolve customer issues.
+• Lead the delivery of support and relationship management with designated Premium accounts, such as Macys, Yahoo, and Internet Broadcasting Service.
+• Develop knowledge base and best practices for the Technical Support team to troubleshoot Windows Media service and Flash streaming service on the Akamai network.
+• Worked with Engineering on ensuring supportability of new Akamai services by having proper documentation and knowledge transfer to the support organization.
+• Respond to customer issues and questions through phone and email.
+• Participate in weekly conference calls with Premium account customers to review support issues and tickets.
+
+Software Engineer Yodlee Inc September 1999 to May 2003
+• Created a scaled down version of the company's web application for cell phones by using Perl scripts to generate HDML and WML pages for the different kinds of mobile devices and to interface with the backend core application for accessing data.
+• Created and maintained Perl scripts to customize the look and behavior of Yodlee's data aggregation Web app for large financial institutions.
+• Involved in the next generation of Yodlee's core product design and implementation, using J2EE and Websphere. Ported applications written in Perl to Java, and written technical manuals for the customers.
+• Various duties in supporting the QA, marketing, customer service teams by reviewing test procedures, generating statistical reports, and troubleshooting production issues.
+
+IT Specialist IBM July 1997 to September 1999
+• Developed and maintained a data collection system written in C for collecting disk manufacturing data from the assembly line and capture that information in a DB2 database.
+• Developed and maintained a business report system which runs database queries to extract and analyze sales information a daily basis.
+• Member of a development team who developed a Lotus Notes application for purchase approval, record tracking, and other manufacturing related business processes.
+• Member of a development team who implemented a web based tracking system for dealing RMD products. Developed the system using HTML, Java servlets, JDBC, and DB2.
+
+Education
+
+B.S. in Computer Science University of California - San Diego, CA 1997. 98133
